@@ -2,7 +2,7 @@
 
 A simple script to transcribe DNA sequences into RNA using Python.
 
-##usage:
+## usage:
 simply run the script and enter your DNA sequence when prompted.
 
 ## Example :
